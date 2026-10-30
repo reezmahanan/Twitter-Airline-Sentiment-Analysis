@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Python / IDE
+.vscode/
+.idea/
+
+# Large model / data artifacts (if downloaded locally)
+*.csv
+*.tar.gz
+*.zip
